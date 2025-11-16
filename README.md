@@ -1,35 +1,57 @@
-<h1>Hi 👋, I'm Master Degree Student in Software Engineering</h1>
-<p>A passionate developer </p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="42" height="42" /></a></p>
+<div align="center">
+  <h1>👋 Hi, I'm a Master's Student in Software Engineering</h1>
+  <p><em>Full-Stack Developer | AI Researcher | Building Intelligent Solutions</em></p>
+</div>
 
+## 🧠 About Me
 
+I'm a Master's student (M2 GL) at Université Ibn Khaldoun, Tiaret, passionate about crafting intelligent solutions at the intersection of software engineering and AI. Currently focusing on lightweight AI models for biomedical applications. I love turning complex problems into elegant, scalable code.
+
+- 🔬 **Current Focus**: Building efficient ML models for healthcare applications
+- 🌱 **Learning**: React Native, Blockchain technologies, Cloud Engineering
+- 💡 **Interests**: Full-stack development, Mobile apps, Distributed systems, UI/UX design
+- 📚 **Side Quest**: Solving LeetCode challenges & exploring new technologies
+- 💬 **Ask me about**: Java architecture, Laravel backends, AI model optimization, or project documentation
+
+## 🛠️ Tech Stack
+
+**Languages**  
+![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg) ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) ![Kotlin](https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg) ![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg) ![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)
+
+**Frameworks & Tools**  
+![Laravel](https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg) ![React Native](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg) ![Flask](https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg) ![Android](https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg)
+
+**Data & Databases**  
+![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg) ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg) ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg) ![Pandas](https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg)
+
+**Design & Collaboration**  
+![Figma](https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg) ![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg) ![VS Code](https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg)
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bmo1177&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bmo1177&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=bmo1177&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="165" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bmo1177&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true" height="165" alt="languages graph" />
 </div>
 
+## 🚀 Current Projects & Goals
 
+- 🏥 **Healthcare AI**: Developing efficient detection models for medical diagnostics
+- 📱 **Mobile Development**: Cross-platform apps with React Native and Kotlin
+- ☁️ **Cloud Journey**: Learning deployment, DevOps, and scalable architecture
+- 🔗 **Blockchain Exploration**: Understanding decentralized systems and smart contracts
+- 📝 **Technical Writing**: Documenting projects and sharing knowledge
 
-###
+## 📫 Let's Connect
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="mailto:mohamedoussama.belalia@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32" alt="gmail" /></a>
+  <a href="https://www.linkedin.com/in/mohamed-oussama-belalia-946481229/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32" alt="linkedin" /></a>
+  <a href="https://discord.com/users/imaginator.way"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="32" alt="discord" /></a>
 </div>
 
-###
+---
+
+<div align="center">
+  <em>"Code is poetry, and every bug is just a plot twist."</em>
+</div>
