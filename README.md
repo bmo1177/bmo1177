@@ -34,6 +34,10 @@ I'm a Master's student (M2 GL) at Université Ibn Khaldoun, Tiaret, passionate a
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bmo1177&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true" height="165" alt="languages graph" />
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/bmo1177/bmo1177/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
+
 ## 🚀 Current Projects & Goals
 
 - 🏥 **Healthcare AI**: Developing efficient detection models for medical diagnostics
