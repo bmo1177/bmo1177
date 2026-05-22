@@ -56,12 +56,13 @@ My primary research and development focus lies at the intersection of **MLOps, E
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bmo1177&theme=radical&hide_border=true" height="165" alt="GitHub Streak Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bmo1177&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=bmo1177&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true" height="165" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/bmo1177/bmo1177/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
 </p>
+
 ---
 
 ## 🚀 Active Initiatives & Goals
