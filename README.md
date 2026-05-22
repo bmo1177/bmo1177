@@ -53,16 +53,19 @@ My primary research and development focus lies at the intersection of **MLOps, E
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bmo1177&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="165" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bmo1177&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true" height="165" alt="languages graph" />
-</div>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=bmo1177&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" height="165" alt="Oussama's GitHub stats" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bmo1177&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true" height="165" alt="Top Languages" />
+  </a>
+</p>
 
-<br />
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/bmo1177/bmo1177/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bmo1177/bmo1177/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
+</p>
 
 ---
 
