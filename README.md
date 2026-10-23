@@ -2,13 +2,18 @@
   <h1>👋 Hi, I'm Mohamed Oussama Belalia</h1>
   <p><strong>MSc Software Engineering (GL) · AI Researcher · Medical AI Engineer</strong></p>
   <p><em>Building neurosymbolic and multimodal AI systems at the intersection of clinical reasoning and edge deployment.</em></p>
+  <p>
+    <a href="https://github.com/bmo1177/NeuroDetectLite"><img src="https://img.shields.io/badge/Thesis-18%2F20-brightgreen?style=for-the-badge" alt="Thesis 18/20"/></a>
+    <a href="https://neuro-detect-lite.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-success?style=for-the-badge" alt="Live demo"/></a>
+    <a href="https://github.com/bmo1177/NeuroDetectLite/blob/main/writing-article/main.pdf"><img src="https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge" alt="Thesis PDF"/></a>
+  </p>
 </div>
 
 ---
 
 ## 🧠 About Me
 
-I hold a Master's degree in Software Engineering from **Université Ibn Khaldoun, Tiaret**, supervised by **Prof. Tahar Zioual**. My thesis - **NeuroDetect Lite** - is a lightweight neurosymbolic clinical decision support system for early Alzheimer's detection, co-authored with Kheireddine Belghitar. It received an Excellent mark at defense.
+I hold a Master's degree in Software Engineering from **Université Ibn Khaldoun, Tiaret**, supervised by **Prof. Tahar Zioual**. My thesis - **NeuroDetect Lite** - is a lightweight neurosymbolic clinical decision support system for early Alzheimer's detection, co-authored with Kheireddine Belghitar. It was defended in 2026 with a mark of **18/20**.
 
 Before CS, I spent two years in medical school - which shapes how I think about clinical AI: precision matters, and explainability isn't optional.
 
@@ -17,6 +22,14 @@ I also presented **ClinReasonViz** at **IEEE PAIS'26** with Prof. Abdelkader Oua
 My current focus is two-track:
 - 🔬 Extending NeuroDetect Lite into a peer-reviewed journal paper (VLM + QLoRA on OASIS-3, targeting *Computers in Biology and Medicine*)
 - 💼 Securing remote AI/ML engineering roles - open to full-time, contract, and freelance work
+
+---
+
+## ⭐ Featured Work
+
+**[NeuroDetect Lite](https://github.com/bmo1177/NeuroDetectLite)** — Master's thesis, defended with **18/20** · [Live demo](https://neuro-detect-lite.vercel.app) · [Thesis PDF](https://github.com/bmo1177/NeuroDetectLite/blob/main/writing-article/main.pdf) · [Model weights](https://huggingface.co/subarufly17/neurodetectlite-models)
+
+A CPU-only clinical decision support system for three-class Alzheimer's staging from structural MRI. It pairs a 7-channel 2.5D pipeline and a compact CNN ensemble with Grad-CAM explanations and a deterministic MMSE gate that lifts ensemble accuracy from 55.7% to **73.86%** (McNemar *p* = 0.003). The deployed model is **1.93 MB** with ~10 ms inference.
 
 ---
 
